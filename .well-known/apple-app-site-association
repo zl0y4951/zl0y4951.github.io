@@ -1,0 +1,11 @@
+{
+  "applinks": {
+      "apps": [],
+      "details": [
+      {
+        "appID": "ED6UV7ZR2M.ru.f5.tasky",
+        "paths": ["*"]
+      }
+    ]
+  }
+}
